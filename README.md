@@ -11,3 +11,5 @@
 - `document.querySelectorAll`: Retorna uma lista de elementos presentes no documento (usando ordenação em profundidade, pré-ordenada e transversal dos nós do documento) que coincidam com o grupo de seletores especificado.
 
 - `class`: As classes são um modelo para a criação de objetos. Eles encapsulam dados com código para trabalhar nesses dados. As classes em JS são construídas em protótipos, mas também possuem alguma sintaxe e semântica que são exclusivas das classes.
+
+- `constructor`: The constructor method is a special method of a class for creating and initializing an object instance of that class.
