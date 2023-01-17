@@ -13,3 +13,5 @@
 - `class`: As classes são um modelo para a criação de objetos. Eles encapsulam dados com código para trabalhar nesses dados. As classes em JS são construídas em protótipos, mas também possuem alguma sintaxe e semântica que são exclusivas das classes.
 
 - `constructor`: The constructor method is a special method of a class for creating and initializing an object instance of that class.
+
+- `this`: Dentro de uma função, o valor de thisdepende de como a função é chamada. Pense thiscomo um parâmetro oculto de uma função — assim como os parâmetros declarados na definição da função, thisé uma ligação que a linguagem cria para você quando o corpo da função é avaliado.
